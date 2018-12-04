@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "267624448689",
+    "firebase_url": "https://authsignin-edf33.firebaseio.com",
+    "project_id": "authsignin-edf33",
+    "storage_bucket": "authsignin-edf33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267624448689:android:e678c555739c9c8c",
+        "android_client_info": {
+          "package_name": "com.scholar.googleauthsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267624448689-m50qvj43u9vic34h4pjtoa4qffcec2qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scholar.googleauthsignin",
+            "certificate_hash": "30a7311c6e159cf69074196996f6fc44354949ff"
+          }
+        },
+        {
+          "client_id": "267624448689-r2c1eu5575mj4ttaov1crf85g50su7c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3sT96k_uaXBFem6cG1vkHptnnXw9Js-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267624448689-r2c1eu5575mj4ttaov1crf85g50su7c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
